@@ -4,7 +4,8 @@ require_once "../Bussineslogic/showTodolist.php";
 require_once "../Bussineslogic/addTodolist.php";
 
 
-addTodolist("tugas video");
+addTodolist("tugas Kelompok 1 Video");
+addTodolist("tugas Kelompok 2 Benchmark");
 addTodolist("tugas individu");
 
 showTodolist();
