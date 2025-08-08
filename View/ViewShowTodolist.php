@@ -16,6 +16,7 @@ function viewShowTodolist()
         echo "1. Tambah Todo" . PHP_EOL;
         echo "2. Hapus Todo" . PHP_EOL;
         echo "3. keluar" . PHP_EOL;
+        echo "===TERIMA KASIH===" . PHP_EOL;
 
         $pilihan = input("Pilih");
 
